@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/home/mikey/Documents/School/303/Assignment1/cmake-build-debug",
-		"source" : "/home/mikey/Documents/School/303/Assignment1"
+		"build" : "/home/mikey/Documents/School/303/A1/cmake-build-debug",
+		"source" : "/home/mikey/Documents/School/303/A1"
 	},
 	"version" : 
 	{
